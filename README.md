@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AreebaImran665
 - 👀 I’m interested in Data Science / Machine Learning 
 - 🌱 I’m currently learning Advance Python and solving leetcode problems
-- 💞️ I’m looking to collaborate on Industry level projects
+- 💞️ I’m looking to collaborate on Industry level projects and contribute to open source.
 - 📫 Reach me at areebaimran665@gmail.com
 - ⚡ Fun fact: I will be among top leetcoders and eventually top Python Developers soon
 
